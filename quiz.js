@@ -1,50 +1,52 @@
 const quesJSON = [
   {
-    correctAnswer: 'RaandCB',
-    options: ['RBC', 'HaarCB', 'RCB', 'RaandCB'],
+    correctAnswer: 'Sachin Tendulkar',
+    options: ['Virat Kohli', 'Ricky Ponting', 'Sachin Tendulkar', 'Brian Lara'],
     question:
-      "Which team holds the unique record of finishing an entire innings with a score that wouldn't even qualify as a personal half-century for a single batsman?",
+      "Who is the only cricketer to have scored one hundred international centuries?",
   },
   {
-    correctAnswer: 'Rajasthan Royals',
+    correctAnswer: 'Winning a game of Cricket',
     options: [
-      'Rajasthan Royals',
-      'Royal Challenger Bengaluru'
+      'Paying half the amount in advance',
+      'Winning a game of Cricket',
+      'Handing over half of their livestock to the Cantonment',
+      'Winning a horse race'
     ],
     question:
-      'Who are the real Royals?',
+      'In the movie Lagaan, what was the condition set by the British for waiving the agricultural tax?',
   },
   {
-    correctAnswer: 'Ben Cutting',
+    correctAnswer: 'Amitabh Bachchan',
     options: [
-      'Albie Morkel',
-      'Ben Cutting',
-      'Bhuvneshwar Kumar',
-      'MS Dhoni',
+      'Shah Rukh Khan',
+      'Salman Khan',
+      'Amitabh Bachchan',
+      'Aamir Khan',
     ],
     question:
-      'Which player is also known as "Father of RCB" ?',
+      'Which Bollywood actor is often referred to as the "Shahenshah of Bollywood"?',
   },
   {
-    correctAnswer: 'Calculator',
+    correctAnswer: 'India',
     options: [
-      'Calculator',
-      'Handkerchief',
-      'Bat',
-      'Ball',
+      'Pakistan',
+      'Australia',
+      'India',
+      'South Africa',
     ],
-    question: 'Which is the most used thing by RCB fans?',
+    question: 'Which country won the first-ever ICC T20 World Cup in 2007?',
   },
   {
-    correctAnswer: 'Bangles',
+    correctAnswer: 'Ajit Doval',
     options: [
-      'Bangles',
-      'KKR Jersey',
-      'SRH Jersey',
-      'Prison Uniform',
+      'Ajit Doval',
+      'A.S. Dulat',
+      'K.P.S. Gill',
+      'Baman Rawat',
     ],
     question:
-      "What are male RCB fans most commonly seen wearing?",
+      "R. Madhavan plays a pivotal, high-ranking intelligence character named Ajay Sanyal, who serves as the Director of the Intelligence Bureau (IB). This character is heavily based on which real-life Indian security official?",
   },
 ];
     let score = 0;
